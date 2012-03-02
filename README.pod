@@ -1,0 +1,5 @@
+=head1 README
+
+"TCP Input Text" implements the Google SOAP Search API and Bing API v2 to extract TCP Ports and Fully Qualified Domain Names (FQDN) from Search Results into a .csv file and individual shell scripts for maltego, nmap and nc aka netcat to provide assurance of a listening TCP service since the time that has past of the last crawl performed by the GoogleBot and BingBot
+
+This is the repository for files common to both https://code.google.com/p/tit and https://tit.codeplex.com
